@@ -35,7 +35,8 @@ function updateText() {
         "You're My Baby",
         "You're Telapathetic",
         "You Like My Nerd Movies!",
-        'You Listen To Me Complain'
+        'You Listen To Me Complain',
+        'You Forget Me On The Moon!!'
     ]
 
     let newReason = reasons[Math.floor(Math.random() * reasons.length)];
