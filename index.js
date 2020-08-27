@@ -36,7 +36,10 @@ function updateText() {
         "You're Telapathetic",
         "You Like My Nerd Movies!",
         'You Listen To Me Complain',
-        'You Forget Me On The Moon!!'
+        'You Forget Me On The Moon!!',
+        'Your Sneeze Is C Cute!',
+        'Your Giggle Melts My Heart',
+        'You Think of Really Fun Date Ideas',
     ]
 
     let newReason = reasons[Math.floor(Math.random() * reasons.length)];
